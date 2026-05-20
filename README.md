@@ -117,7 +117,7 @@ int main(void)
 
   while (1)
   {
-	  printf("muthurevula sahithi \n");
+	  printf("saveetha engneering college\nscoft \n");
 	  HAL_Delay(500);
   }
 }
